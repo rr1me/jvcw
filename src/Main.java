@@ -17,5 +17,7 @@ public class Main {
         }
 
         System.out.println("Количество сотрудников: " + employeeCount);
+//        Vowels vowels = new Vowels();
+//        vowels.removeVowels();
     }
 }
